@@ -1,0 +1,16 @@
+{
+  "student": [
+    {
+      "name": "Dhoni",
+      "age": "33",
+      "branch": "cse",
+      "id": 2
+    },
+    {
+      "name": "ajay",
+      "age": "22",
+      "branch": "eee",
+      "id": 3
+    }
+  ]
+}
